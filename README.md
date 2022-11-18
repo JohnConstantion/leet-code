@@ -1,1 +1,1 @@
-# leet-code
+# let-code
